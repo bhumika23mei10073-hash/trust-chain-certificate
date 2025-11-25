@@ -1,0 +1,8 @@
+# Environment Secrets (CRITICAL)
+.env
+
+# Node dependencies
+/node_modules
+
+# Mac/OS Files
+.DS_Store
